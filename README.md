@@ -1,6 +1,6 @@
 # BadBank
-Description/Motivation:
-this is simple React banking software simulator.
+## Description/Motivation:
+### this is simple React banking software simulator.
 
 ## Users can :
 ### create new users,
@@ -10,7 +10,9 @@ this is simple React banking software simulator.
 ### check balance, and see all data containing users name email and balance.
 
 ## Installation Guidelines: 
-
+### go to:
+### https://github.com/Chokhonelidze/ALLINONE
+### and follow the readme instructions.
 
 ## Technology used:
 ### Frontend is working on React JS.
