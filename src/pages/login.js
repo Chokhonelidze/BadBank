@@ -76,7 +76,7 @@ function Login(){
     return (
         <Card 
         txtcolor="black"
-        header="Login"
+        header={user ? "Logout" : "Login"}
         body = {user ? (
           <>
             <h5 className="text-success">Welcome {user.user.name}</h5>

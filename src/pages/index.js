@@ -15,7 +15,7 @@ function Spa() {
   const [user,setUser] = React.useState();
   return (
     <HashRouter>
-       <NavBar />
+       <NavBar {...user} />
        <div className="container" style={{padding: "20px"}}>
        <UserContext.Provider value={[user,setUser]}>
       <Routes>
